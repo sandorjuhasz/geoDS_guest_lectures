@@ -2,8 +2,7 @@
 
 **work-in-progress**
 
-Sándor Juhász<br>
-[sandorjuhasz.com](sandorjuhasz.com)
+Sándor Juhász | [sandorjuhasz.com](sandorjuhasz.com)
 
 **Part 1 -- Intoduction to geographic data**
 
