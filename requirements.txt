@@ -7,5 +7,6 @@ numpy==1.26.4
 osmnx==1.9.3
 pandas==2.2.1
 pyfixest==0.26.2
+pysal==24.7
 seaborn==0.13.2
 shapely==2.0.3
