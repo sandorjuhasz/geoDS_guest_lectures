@@ -14,3 +14,8 @@ Sándor Juhász | [sandorjuhasz.com](https://sandorjuhasz.com)
 
 ```code/part3_geoDS_spatial_autocorrelation_and_gravity_models.ipynb```
 
+**Requirements**
+
+For Google Colab users, installation guidelines are in the notebooks. To install requirements locally, use:
+
+```pip install -r requirements.txt```
