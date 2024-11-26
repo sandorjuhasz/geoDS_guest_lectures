@@ -1,0 +1,11 @@
+esda==2.6.0
+geopandas==0.14.3
+haversine==2.8.1
+matplotlib==3.8.3
+networkx==3.2.1
+numpy==1.26.4
+osmnx==1.9.3
+pandas==2.2.1
+pyfixest==0.26.2
+seaborn==0.13.2
+shapely==2.0.3
